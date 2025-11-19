@@ -18,9 +18,17 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "zh-CN", // 💡 建议修改：改为中文环境
-    // 💡 建议修改：如果部署到 GitHub Pages，这里通常是您的仓库名称，例如 "my-blog"
-    // ✅ 解决方案：设置为您的 GitHub 仓库名称
-    baseUrl: "my-quartz-site",
+    
+    // ==========================================================
+    // 🎯 关键修复 1：设置正确的根域名
+    // 对于项目网站，baseUrl 应设置为 [username].github.io
+    baseUrl: "daisywait.github.io", 
+    
+    // 🎯 关键修复 2：设置 App Root 为仓库名称
+    // appRoot 必须设置为您的仓库名称，这样 Quartz 才能在子路径下正确加载资源。
+    appRoot: "my-quartz-site",
+    // ==========================================================
+    
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
