@@ -5,6 +5,66 @@
       <link>https://daisywait.github.io</link>
       <description>最近的10条笔记 on 我的数字花园</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
-      
+      <item>
+    <title>神经网络神经元</title>
+    <link>https://daisywait.github.io/3b1b/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%A5%9E%E7%BB%8F%E5%85%83</link>
+    <guid>https://daisywait.github.io/3b1b/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%A5%9E%E7%BB%8F%E5%85%83</guid>
+    <description><![CDATA[  . ]]></description>
+    <pubDate>Wed, 19 Nov 2025 08:37:20 GMT</pubDate>
+  </item><item>
+    <title>线性代数</title>
+    <link>https://daisywait.github.io/3b1b/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0</link>
+    <guid>https://daisywait.github.io/3b1b/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0</guid>
+    <description><![CDATA[ 特征值和特征向量 特征值求解： 特征向量： 不是所有的二维变换都有特征向量/特征值 . ]]></description>
+    <pubDate>Wed, 19 Nov 2025 08:37:20 GMT</pubDate>
+  </item><item>
+    <title>GitLab 用户访问指南</title>
+    <link>https://daisywait.github.io/4090%E5%B7%A5%E4%BD%9C%E7%AB%99/GitLab-%E7%94%A8%E6%88%B7%E8%AE%BF%E9%97%AE%E6%8C%87%E5%8D%97</link>
+    <guid>https://daisywait.github.io/4090%E5%B7%A5%E4%BD%9C%E7%AB%99/GitLab-%E7%94%A8%E6%88%B7%E8%AE%BF%E9%97%AE%E6%8C%87%E5%8D%97</guid>
+    <description><![CDATA[  版本：v1.0 | 更新日期：2025-11-15 管理员：linmiaoju（root） GitLab 地址：http://172.31.179.162 SSH 端口：2224 1. ]]></description>
+    <pubDate>Wed, 19 Nov 2025 08:37:20 GMT</pubDate>
+  </item><item>
+    <title>Gitlab 部署流程</title>
+    <link>https://daisywait.github.io/4090%E5%B7%A5%E4%BD%9C%E7%AB%99/Gitlab-%E9%83%A8%E7%BD%B2%E6%B5%81%E7%A8%8B</link>
+    <guid>https://daisywait.github.io/4090%E5%B7%A5%E4%BD%9C%E7%AB%99/Gitlab-%E9%83%A8%E7%BD%B2%E6%B5%81%E7%A8%8B</guid>
+    <description><![CDATA[ 目标：工作站不能连接外网 github，多人在不同本地工作站如何通过 git 同步代码协同开发，通过 gitlab？ 待办事项： 本地下载镜像：docker pull gitlab/gitlab-ce ✅ 2025-11-13 保存为.tar文件：`docker save -o gitlab-ce-latest.tar gitlab/gitlab-ce:latest ✅ 2025-11-13 搬到4090：scp gitlab-ce-latest.tar linmiaoju@172.31.179.162:8289:/data/linmiaoju/docker_images/ ✅ 2025-11... ]]></description>
+    <pubDate>Wed, 19 Nov 2025 08:37:20 GMT</pubDate>
+  </item><item>
+    <title>ROS2安装</title>
+    <link>https://daisywait.github.io/4090%E5%B7%A5%E4%BD%9C%E7%AB%99/ROS2%E5%AE%89%E8%A3%85</link>
+    <guid>https://daisywait.github.io/4090%E5%B7%A5%E4%BD%9C%E7%AB%99/ROS2%E5%AE%89%E8%A3%85</guid>
+    <description><![CDATA[  检查当前环境的Ubuntu版本 ✅ 2025-11-18 lsb_release -a 输出： (base) linmiaoju@enine:~$ lsb_release -a No LSB modules are available. ]]></description>
+    <pubDate>Wed, 19 Nov 2025 08:37:20 GMT</pubDate>
+  </item><item>
+    <title>环境</title>
+    <link>https://daisywait.github.io/4090%E5%B7%A5%E4%BD%9C%E7%AB%99/%E7%8E%AF%E5%A2%83</link>
+    <guid>https://daisywait.github.io/4090%E5%B7%A5%E4%BD%9C%E7%AB%99/%E7%8E%AF%E5%A2%83</guid>
+    <description><![CDATA[ 非常重要的工作站使用规范！我来帮你整理和补充： 📍 存储使用规范 系统盘 (/) - 916GB SSD ✅ 可以放：代码、配置文件、文档 ❌ 不要放：数据集、模型文件、大型缓存 数据盘 (/data) - 3.6TB HDD/SSD ✅ 必须放：数据集、训练结果、模型文件、大型缓存 🔧 环境配置建议 1. ]]></description>
+    <pubDate>Wed, 19 Nov 2025 08:37:20 GMT</pubDate>
+  </item><item>
+    <title>配置docker cuda12.4环境、跑通JEPA代码</title>
+    <link>https://daisywait.github.io/4090%E5%B7%A5%E4%BD%9C%E7%AB%99/%E9%85%8D%E7%BD%AEdocker-cuda12.4%E7%8E%AF%E5%A2%83%E3%80%81%E8%B7%91%E9%80%9AJEPA%E4%BB%A3%E7%A0%81</link>
+    <guid>https://daisywait.github.io/4090%E5%B7%A5%E4%BD%9C%E7%AB%99/%E9%85%8D%E7%BD%AEdocker-cuda12.4%E7%8E%AF%E5%A2%83%E3%80%81%E8%B7%91%E9%80%9AJEPA%E4%BB%A3%E7%A0%81</guid>
+    <description><![CDATA[  在本机拉取镜像 ✅ 2025-11-16 docker pull docker.1ms.run/nvidia/cuda:12.4.0-devel-ubuntu22.04 导出为tar且scp到工作站 ✅ 2025-11-16 docker save -o cuda12.8-cudnn-devel.tar docker.1ms.run/nvidia/cuda:12.4.1-cudnn-devel-ubuntu22.04 scp cuda12.4.1-cudnn-devel.tar linmiaoju@&lt;工作站IP&gt;:/data/linmiaoju/docker_images/ 工作... ]]></description>
+    <pubDate>Wed, 19 Nov 2025 08:37:20 GMT</pubDate>
+  </item><item>
+    <title>镜像pull、save、scp、load、run</title>
+    <link>https://daisywait.github.io/4090%E5%B7%A5%E4%BD%9C%E7%AB%99/%E9%95%9C%E5%83%8Fpull%E3%80%81save%E3%80%81scp%E3%80%81load%E3%80%81run</link>
+    <guid>https://daisywait.github.io/4090%E5%B7%A5%E4%BD%9C%E7%AB%99/%E9%95%9C%E5%83%8Fpull%E3%80%81save%E3%80%81scp%E3%80%81load%E3%80%81run</guid>
+    <description><![CDATA[ 明白了，Anne，我们先把注意力放回 Docker 镜像已经在本地 pull 完 的情况。 1️⃣ 镜像下载完成后做什么 假设你在本地电脑成功拉取了： docker pull docker.1ms.run/nvidia/cuda:12.4.0-devel-ubuntu22.04 接下来要做的主要步骤： 2️⃣ 导出镜像为 tar 文件（离线搬运） 因为工作站无法连外网，你需要把镜像从本地电脑搬到工作站： docker save -o cuda12.8-cudnn-devel.tar docker.1ms.run/nvidia/cuda:12.8.0-cudnn-devel-ubuntu22.0... ]]></description>
+    <pubDate>Wed, 19 Nov 2025 08:37:20 GMT</pubDate>
+  </item><item>
+    <title>Linux101</title>
+    <link>https://daisywait.github.io/Linux/Linux101</link>
+    <guid>https://daisywait.github.io/Linux/Linux101</guid>
+    <description><![CDATA[ 101.lug.ustc.edu.cn/Ch01/#start-vm. ]]></description>
+    <pubDate>Wed, 19 Nov 2025 08:37:20 GMT</pubDate>
+  </item><item>
+    <title>vi编辑器</title>
+    <link>https://daisywait.github.io/Linux/vi%E7%BC%96%E8%BE%91%E5%99%A8</link>
+    <guid>https://daisywait.github.io/Linux/vi%E7%BC%96%E8%BE%91%E5%99%A8</guid>
+    <description><![CDATA[  操作命令说明打开文件vi filename 或 vim filename新建或编辑文件只读模式vi -R filename 或 view filename不能修改退出（未保存）:q正常退出强制退出:q!丢弃修改强制退出保存并退出:wq 或 ZZ（大写）保存后退出保存不退出:w仅保存另存为:w newfile保存到新文件. ]]></description>
+    <pubDate>Wed, 19 Nov 2025 08:37:20 GMT</pubDate>
+  </item>
     </channel>
   </rss>
