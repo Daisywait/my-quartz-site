@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>我的数字花园</title>
+      <link>https://daisywait.github.io</link>
+      <description>最近的10条笔记 on 我的数字花园</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      
+    </channel>
+  </rss>
