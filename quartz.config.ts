@@ -10,7 +10,7 @@ const config: QuartzConfig = {
   configuration: {
     // 💡 建议修改：将 Quartz 4 改为您的网站名称
     // 确保做出并保存了更改
-    pageTitle: "我的数字花园!",
+    pageTitle: "我的数字花园",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
