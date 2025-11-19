@@ -6,6 +6,12 @@
       <description>最近的10条笔记 on 我的数字花园</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>test</title>
+    <link>https://daisywait.github.io/test</link>
+    <guid>https://daisywait.github.io/test</guid>
+    <description><![CDATA[ 这是一个测试. ]]></description>
+    <pubDate>Wed, 19 Nov 2025 08:46:31 GMT</pubDate>
+  </item><item>
     <title>神经网络神经元</title>
     <link>https://daisywait.github.io/3b1b/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%A5%9E%E7%BB%8F%E5%85%83</link>
     <guid>https://daisywait.github.io/3b1b/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%A5%9E%E7%BB%8F%E5%85%83</guid>
@@ -58,12 +64,6 @@
     <link>https://daisywait.github.io/Linux/Linux101</link>
     <guid>https://daisywait.github.io/Linux/Linux101</guid>
     <description><![CDATA[ 101.lug.ustc.edu.cn/Ch01/#start-vm. ]]></description>
-    <pubDate>Wed, 19 Nov 2025 08:37:20 GMT</pubDate>
-  </item><item>
-    <title>vi编辑器</title>
-    <link>https://daisywait.github.io/Linux/vi%E7%BC%96%E8%BE%91%E5%99%A8</link>
-    <guid>https://daisywait.github.io/Linux/vi%E7%BC%96%E8%BE%91%E5%99%A8</guid>
-    <description><![CDATA[  操作命令说明打开文件vi filename 或 vim filename新建或编辑文件只读模式vi -R filename 或 view filename不能修改退出（未保存）:q正常退出强制退出:q!丢弃修改强制退出保存并退出:wq 或 ZZ（大写）保存后退出保存不退出:w仅保存另存为:w newfile保存到新文件. ]]></description>
     <pubDate>Wed, 19 Nov 2025 08:37:20 GMT</pubDate>
   </item>
     </channel>
