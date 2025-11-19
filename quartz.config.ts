@@ -8,15 +8,18 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    // 💡 建议修改：将 Quartz 4 改为您的网站名称
+    pageTitle: "我的数字花园", 
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    locale: "zh-CN", // 💡 建议修改：改为中文环境
+    // 💡 建议修改：如果部署到 GitHub Pages，这里通常是您的仓库名称，例如 "my-blog"
+    // ✅ 解决方案：设置为您的 GitHub 仓库名称
+    baseUrl: "my-quartz-site",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
@@ -89,7 +92,8 @@ const config: QuartzConfig = {
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
+      // ❗ 修复 OG Image 错误：在 Plugin.CustomOgImages() 前添加 // 
+      // Plugin.CustomOgImages(),
     ],
   },
 }
