@@ -6,6 +6,12 @@
       <description>最近的10条笔记 on 我的数字花园</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>短课Qwen报告</title>
+    <link>https://daisywait.github.io/%E7%9F%AD%E8%AF%BE/%E7%9F%AD%E8%AF%BEQwen%E6%8A%A5%E5%91%8A</link>
+    <guid>https://daisywait.github.io/%E7%9F%AD%E8%AF%BE/%E7%9F%AD%E8%AF%BEQwen%E6%8A%A5%E5%91%8A</guid>
+    <description><![CDATA[ 📋 QwenVL 环境部署待办清单 🔹 1. ]]></description>
+    <pubDate>Fri, 21 Nov 2025 13:07:36 GMT</pubDate>
+  </item><item>
     <title>Docker 常用操作速查手册</title>
     <link>https://daisywait.github.io/ssh_docker_gitlab/Docker-%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C%E9%80%9F%E6%9F%A5%E6%89%8B%E5%86%8C</link>
     <guid>https://daisywait.github.io/ssh_docker_gitlab/Docker-%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C%E9%80%9F%E6%9F%A5%E6%89%8B%E5%86%8C</guid>
@@ -58,12 +64,6 @@
     <link>https://daisywait.github.io/4090%E5%B7%A5%E4%BD%9C%E7%AB%99/ROS2%E5%AE%89%E8%A3%85</link>
     <guid>https://daisywait.github.io/4090%E5%B7%A5%E4%BD%9C%E7%AB%99/ROS2%E5%AE%89%E8%A3%85</guid>
     <description><![CDATA[  检查当前环境的Ubuntu版本 ✅ 2025-11-18 lsb_release -a 输出： (base) linmiaoju@enine:~$ lsb_release -a No LSB modules are available. ]]></description>
-    <pubDate>Wed, 19 Nov 2025 08:37:20 GMT</pubDate>
-  </item><item>
-    <title>环境</title>
-    <link>https://daisywait.github.io/4090%E5%B7%A5%E4%BD%9C%E7%AB%99/%E7%8E%AF%E5%A2%83</link>
-    <guid>https://daisywait.github.io/4090%E5%B7%A5%E4%BD%9C%E7%AB%99/%E7%8E%AF%E5%A2%83</guid>
-    <description><![CDATA[ 非常重要的工作站使用规范！我来帮你整理和补充： 📍 存储使用规范 系统盘 (/) - 916GB SSD ✅ 可以放：代码、配置文件、文档 ❌ 不要放：数据集、模型文件、大型缓存 数据盘 (/data) - 3.6TB HDD/SSD ✅ 必须放：数据集、训练结果、模型文件、大型缓存 🔧 环境配置建议 1. ]]></description>
     <pubDate>Wed, 19 Nov 2025 08:37:20 GMT</pubDate>
   </item>
     </channel>
